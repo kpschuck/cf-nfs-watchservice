@@ -25,7 +25,7 @@ cf start cf-nfs-watchservice
 
 You should see the following output in the logs upon first startup:
 ```
-   2020-06-03T11:55:29.69-0500 [APP/PROC/WEB/0] OUT 2020-06-03 16:55:29.696  INFO 25 --- [           main] c.e.c.UploadWatcherService               : Upload directory created: /var/watcherdemo/upload
+2020-06-03T11:55:29.69-0500 [APP/PROC/WEB/0] OUT 2020-06-03 16:55:29.696  INFO 25 --- [           main] c.e.c.UploadWatcherService               : Upload directory created: /var/watcherdemo/upload
 ```
 
 ## Generate and Watch Uploads
